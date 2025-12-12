@@ -9,7 +9,7 @@ This repo contains a lightweight, end-to-end pipeline for searching long-form au
 - Using FAISS to retrieve the most relevant moments in the audio for a natural-language query
 
 ## Models Used:
-- **Speech-to-text**: [OpenAI Whisper (small)](https://huggingface.co/openai/whisper-small)
+- **Automatic speech recognition (ASR)**: [OpenAI Whisper (small)](https://huggingface.co/openai/whisper-small)
 - **Text embeddings**: [Sentence-Transformers all-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
 
 ## Notebook:
