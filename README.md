@@ -17,3 +17,5 @@ The full walkthrough can be found in:
 `whisper_semantic_audio_search.ipynb`
 
 This architecture generalizes to podcasts, YouTube videos, Zoom meetings, lectures, and any long-form audio where semantic retrieval matters more than exact words.
+
+*Note:* GitHub may not render notebook outputs correctly. For full execution and visible outputs, open and run the notebook in **Google Colab**.
